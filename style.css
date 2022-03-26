@@ -1,0 +1,19 @@
+body{
+    background-color:wheat;
+}
+.header{
+text-align: center;
+margin: 50px;
+font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+font-size: 100px;
+color:crimson;
+}
+.container{
+    text-align: center;
+margin: 50px;
+font-family: aerial;
+font-weight: bold;
+font-size: 100px;
+color:  rgba(179, 0, 0, 0.801) 
+}
